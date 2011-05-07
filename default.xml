@@ -79,7 +79,7 @@
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluez" name="AmeriCanAndroid/android_external_bluetooth_bluez.git" remote="github" />
+  <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez.git" remote="github" />
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
