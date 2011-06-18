@@ -86,6 +86,8 @@
   <project path="device/samsung/galaxys4g" name="CyanogenMod/android_device_samsung_galaxys4g" remote="github" />
   <project path="device/samsung/p7100" name="CyanogenMod/android_device_samsung_p7100" remote="github" />
   <project path="device/samsung/sidekick4g" name="CyanogenMod/android_device_samsung_sidekick4g" remote="github" />
+  <project path="device/samsung/p7100" name="CyanogenMod/android_device_samsung_p7100" remote="github" />
+  <project path="device/samsung/sidekick4g" name="CyanogenMod/android_device_samsung_sidekick4g" remote="github" />
   <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" remote="github" />
   <project path="device/samsung/vzwtab" name="CyanogenMod/android_device_samsung_vzwtab" remote="github" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" remote="github" />
@@ -271,7 +273,6 @@
   <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="master" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
-
   <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" remote="github" />
 
