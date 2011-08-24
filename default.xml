@@ -109,7 +109,7 @@
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez.git" remote="github" />
+  <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" remote="github" />
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" remote="github" />
@@ -217,7 +217,7 @@
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="github" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="github" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" />
+  <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" remote="github" />
   <project path="packages/apps/AicBootFix" name="CyanogenMod/android_packages_apps_AicBootFix" remote="github" revision="master"/>
   <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" />
   <project path="packages/apps/AndroidTerm" name="CyanogenMod/android_packages_apps_AndroidTerm" remote="github" />
