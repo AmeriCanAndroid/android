@@ -83,6 +83,7 @@
   <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
+  <project path="device/samsung/crespo" name="CyanogenMod/android_device_samsung_crespo" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" />
