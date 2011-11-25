@@ -9,7 +9,8 @@
            review="review.cyanogenmod.com" />
 
   <default revision="gingerbread"
-           remote="github" />
+           remote="github"
+           sync-j="4" />
 
   <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -202,6 +203,7 @@
   <project path="external/proguard" name="CyanogenMod/android_external_proguard" />
   <project path="external/protobuf" name="CyanogenMod/android_external_protobuf" />
   <project path="external/qemu" name="CyanogenMod/android_external_qemu" revision="tools_r7" />
+  <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
   <project path="external/quake" name="CyanogenMod/android_external_quake" />
   <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" />
