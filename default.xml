@@ -8,6 +8,10 @@
            fetch="git://github.com/"
            review="review.cyanogenmod.com" />
 
+  <remote  name="github-https"
+           fetch="https://github.com/"
+           review="review.cyanogenmod.com" />
+
   <default revision="gingerbread"
            remote="github" />
 
