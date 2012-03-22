@@ -215,9 +215,9 @@
   <project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" />
   <project path="external/tinyxml" name="CyanogenMod/android_external_tinyxml" />
   <project path="external/tremolo" name="CyanogenMod/android_external_tremolo" />
-  <project path="external/v8" name="CyanogenMod/android_external_v8" />
+<project path="external/v8" name="Kali-/android_external_v8" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
-  <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
+  <project path="external/webkit" name="Kali-/android_external_webkit" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" revision="master" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
@@ -225,16 +225,17 @@
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
+  <project path="frameworks/base" name="Kali-/android_frameworks_base" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/gpsshim" name="CyanogenMod/android_hardware_gpsshim" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
-  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
+  <project path="hardware/libhardware" name="Kali-/android_hardware_libhardware" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="hardware/libhardware_legacy" name="Kali-/android_hardware_libhardware_legacy" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="hardware/msm7k" name="Kali-/android_hardware_msm7k" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+    <project path="hardware/qcom/display" name="Kali-/android_hardware_qcom_display" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
-  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
+  <project path="hardware/qcom/media" name="Kali-/android_hardware_qcom_media" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
@@ -319,6 +320,10 @@
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
   <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" />
+  <project path="vendor/qcom/opensource/omx/mm-core" name="Kali-/android_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="vendor/qcom/opensource/omx/mm-video" name="Kali-/android_vendor_qcom_opensource_omx_mm-video" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="vendor/qcom/opensource/v8" name="Kali-/android_vendor_qcom_opensource_v8" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />   
+
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
@@ -326,7 +331,6 @@
   <project path="vendor/tmobile/themes/Androidian" name="CyanogenMod/android_vendor_tmobile_themes_Androidian" />
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
-
   <project path="android" name="AmeriCanAndroid/android" remote="github"/>
 
 </manifest>
