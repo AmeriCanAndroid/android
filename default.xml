@@ -376,10 +376,10 @@
   <project path="vendor/htc" name="AmeriCanAndroid/proprietary_vendor_htc" revision="cm10.1"/>
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
   
-  <!--AmeriCanAndroid/Evervolv Hybrid-->
+  <!--AmeriCanAndroid/Evervolv Hybrid
   <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="evergit" revision="jellybean"/>
   <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="evergit" revision="jellybean"/>
-  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="evergit" revision="jellybean"/>
+  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="evergit" revision="jellybean"/> -->
   
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
