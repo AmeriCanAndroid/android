@@ -43,6 +43,7 @@
   <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
+  <project path="device/htc/msm8660-common" name="TeamJB/android_device_htc_msm8660-common" />
   <project path="device/htc/shooteru" name="AmeriCanAndroid/android_device_htc_shooteru" revision="cm10.1" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
@@ -376,7 +377,7 @@
   <project path="vendor/htc" name="AmeriCanAndroid/proprietary_vendor_htc" revision="cm10.1"/>
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
   
-  <!--AmeriCanAndroid/Evervolv Hybrid
+  <!--AmeriCanAndroid/Evervolv Hybride
   <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="evergit" revision="jellybean"/>
   <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="evergit" revision="jellybean"/>
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="evergit" revision="jellybean"/> -->
