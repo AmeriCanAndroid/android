@@ -31,7 +31,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/htc/msm8660-common" name="TeamJB/android_device_htc_msm8660-common" />
+  <project path="device/htc/msm8660-common" name="Evervolv/android_device_htc_msm8660-common" revision="jellybean" />
   <project path="device/htc/shooteru" name="AmeriCanAndroid/android_device_htc_shooteru" revision="cm10.1"  />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
   <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" />
@@ -213,8 +213,8 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" name="TeamJB/android_frameworks_av" />
-  <project path="frameworks/base" name="TeamJB/android_frameworks_base" />
+  <project path="frameworks/av" name="Evervolv/android_frameworks_av" revision="jellybean" />
+  <project path="frameworks/base" name="Evervolv/android_frameworks_base" revision="jellybean" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="CyanogenMod/android_frameworks_compile_llvm-ndk-cc" />
@@ -241,20 +241,19 @@
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
-  <project path="hardware/libhardware" name="TeamJB/android_hardware_libhardware" />
-  <project path="hardware/libhardware_legacy" name="TeamJB/android_hardware_libhardware_legacy" />
+  <project path="hardware/libhardware" name="Evervolv/android_hardware_libhardware" revision="jellybean" />
+  <project path="hardware/libhardware_legacy" name="Evervolv/android_hardware_libhardware_legacy" revision="jellybean" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
-  <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" />
-  <project path="hardware/qcom/audio-legacy" name="TeamJB/android_hardware_qcom_audio-legacy" />
+  <project path="hardware/qcom/audio-legacy" name="Evervolv/android_hardware_qcom_audio-legacy" revision="jellybean" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" />
-  <project path="hardware/qcom/display-legacy" name="TeamJB/android_hardware_qcom_display-legacy" />
+  <project path="hardware/qcom/display-legacy" name="Evervolv/android_hardware_qcom_display-legacy" revision="jellybean" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" />
-  <project path="hardware/qcom/media" name="TeamJB/android_hardware_qcom_media" />
+  <project path="hardware/qcom/media" name="Evervolv/android_hardware_qcom_media" revision="jellybean" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" />
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" />
   <project path="hardware/qcom/sensors" name="CyanogenMod/android_hardware_qcom_sensors" />
@@ -291,7 +290,6 @@
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher2" name="CyanogenMod/android_packages_apps_Launcher2" />
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" />
-  <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
@@ -360,10 +358,9 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="jb-mr1-release" />
-
   <project path="sdk" name="platform/sdk" remote="aosp" revision="jb-mr1-release" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="TeamJB/android_system_core" />
+  <project path="system/core" name="Evervolv/android_system_core" revision="jellybean" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
