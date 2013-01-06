@@ -339,25 +339,29 @@
   <project path="packages/wallpapers/PhaseBeam" name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
   <project path="pdk" name="platform/pdk" remote="aosp" revision="jb-mr1-release" />
 <!--  <project path="prebuilt" name="CyanogenMod/android_prebuilt" />-->
-<!--  <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" />-->
-<!--  <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="darwin" />-->
-  <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" revision="jb-mr1-release" />
-  <project path="prebuilts/clang/linux-x86/3.2" name="platform/prebuilts/clang/linux-x86/3.2" groups="linux" revision="jb-mr1-release" />
-  <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" revision="jb-mr1-release" />
-  <project path="prebuilts/eclipse-build-deps" name="platform/prebuilts/eclipse-build-deps" groups="notdefault,eclipse" revision="jb-mr1-release" />
-  <project path="prebuilts/eclipse-build-deps-sources" name="platform/prebuilts/eclipse-build-deps-sources" groups="notdefault,eclipse" revision="jb-mr1-release" />
-<!--  <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" groups="darwin,arm" />-->
-<!--  <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" groups="darwin,arm" />-->
-<!--  <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" groups="darwin,mips" />-->
-<!--  <project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" groups="darwin,x86" />-->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" groups="linux,arm" revision="jb-mr1-release" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" groups="linux,arm" revision="jb-mr1-release" />
-  <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="linux" revision="jb-mr1-release" />
-  <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" groups="linux" revision="jb-mr1-release" />
-  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" groups="linux" revision="jb-mr1-release" />
-<!--  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" groups="linux,mips" />-->
-<!--  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" groups="linux,x86" />-->
-
+<!--  <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" remote="aosp" revision="jb-mr1-release" />-->
+<!--  <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="darwin" remote="aosp" revision="jb-mr1-release" />-->
+  <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/clang/linux-x86/3.2" name="platform/prebuilts/clang/linux-x86/3.2" groups="linux" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/eclipse-build-deps-sources" name="platform/prebuilts/eclipse-build-deps-sources" groups="notdefault,eclipse" remote="aosp" revision="jb-mr1-release" />
+<!--  <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" groups="darwin,arm" remote="aosp" revision="jb-mr1-release" />-->
+<!--  <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" groups="darwin,arm" remote="aosp" revision="jb-mr1-release" />-->
+<!--  <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" groups="darwin,mips" remote="aosp" revision="jb-mr1-release" />-->
+<!--  <project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" groups="darwin,x86" remote="aosp" revision="jb-mr1-release" />-->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" groups="linux,arm" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" groups="linux,arm" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="linux" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" groups="linux" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" groups="linux" remote="aosp" revision="jb-mr1-release" />
+<!--  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" groups="linux,mips" remote="aosp" revision="jb-mr1-release" />-->
+<!--  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" groups="linux,x86" remote="aosp" revision="jb-mr1-release" />-->
+  <project path="prebuilts/misc" name="platform/prebuilts/misc" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/ndk" name="platform/prebuilts/ndk" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="jb-mr1-release" />
+  
   <project path="sdk" name="platform/sdk" remote="aosp" revision="jb-mr1-release" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/core" name="CyanogenMod/android_system_core" />
