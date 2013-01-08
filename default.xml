@@ -39,7 +39,7 @@
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
   <project path="device/htc/shooteru" name="AmeriCanAndroid/android_device_htc_shooteru" revision="cm10" />
-  <project path="device/htc/msm8660-common" name="CyanogenMod/android_device_htc_msm8660-common" revision="jellybean" />
+  <project path="device/htc/msm8660-common" name="CyanogenMod/android_device_htc_msm8660-common" revision="ics" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
