@@ -228,7 +228,7 @@
   <project path="hardware/qcom/gps" name="Evervolv/android_hardware_qcom_gps" />
   <project path="hardware/qcom/gps" name="Evervolv/android_hardware_qcom_gps-legacy" />
   <project path="hardware/qcom/media" name="Evervolv/android_hardware_qcom_media" />
-  <project path="hardware/qcom/media-legacy" name="Evervolv/android_hardware_qcom_media-legacy" remote="github" />
+  <project path="hardware/qcom/media-legacy" name="Evervolv/android_hardware_qcom_media-legacy" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
