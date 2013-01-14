@@ -39,7 +39,7 @@
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
   <project path="device/htc/shooteru" name="AmeriCanAndroid/android_device_htc_shooteru" revision="cm10" />
-  <project path="device/htc/msm8660-common" name="AmeriCanAndroid/android_device_htc_msm8660-common" revision="jellybean" />
+  <project path="device/htc/msm8660-common" name="Evervolv/android_device_htc_msm8660-common" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
@@ -197,8 +197,8 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" name="AmeriCanAndroid/android_frameworks_av" />
-  <project path="frameworks/base" name="AmeriCanAndroid/android_frameworks_base" />
+  <project path="frameworks/av" name="Evervolv/android_frameworks_av" />
+  <project path="frameworks/base" name="Evervolv/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" />
@@ -220,13 +220,15 @@
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
-  <project path="hardware/libhardware" name="AmeriCanAndroid/android_hardware_libhardware" />
-  <project path="hardware/libhardware_legacy" name="AmeriCanAndroid/android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="AmeriCanAndroid/android_hardware_msm7k" />
-  <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
-  <project path="hardware/qcom/display" name="AmeriCanAndroid/android_hardware_qcom_display" />
-  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
-  <project path="hardware/qcom/media" name="AmeriCanAndroid/android_hardware_qcom_media" />
+  <project path="hardware/libhardware" name="Evervolv/android_hardware_libhardware" />
+  <project path="hardware/libhardware_legacy" name="Evervolv/android_hardware_libhardware_legacy" />
+  <project path="hardware/msm7k" name="Evervolv/android_hardware_msm7k" />
+  <project path="hardware/qcom/audio" name="Evervolv/android_hardware_qcom_audio" />
+  <project path="hardware/qcom/display" name="Evervolv/android_hardware_qcom_display" />
+  <project path="hardware/qcom/gps" name="Evervolv/android_hardware_qcom_gps" />
+  <project path="hardware/qcom/gps" name="Evervolv/android_hardware_qcom_gps-legacy" />
+  <project path="hardware/qcom/media" name="Evervolv/android_hardware_qcom_media" />
+  <project path="hardware/qcom/media-legacy" name="Evervolv/android_hardware_qcom_media-legacy" remote="github" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
