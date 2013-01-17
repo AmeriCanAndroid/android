@@ -39,7 +39,7 @@
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
   <project path="device/htc/shooteru" name="AmeriCanAndroid/android_device_htc_shooteru" revision="cm10" />
-  <project path="device/htc/msm8660-common" name="Evervolv/android_device_htc_msm8660-common" />
+  <project path="device/htc/msm8660-common" name="CyanogenMod/android_device_htc_msm8660-common" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
@@ -197,8 +197,8 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" name="Evervolv/android_frameworks_av" revision="jellybean-4.1.2"/>
-  <project path="frameworks/base" name="Evervolv/android_frameworks_base" revision="jellybean-4.1.2"/>
+  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" />
@@ -220,15 +220,13 @@
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
-  <project path="hardware/libhardware" name="Evervolv/android_hardware_libhardware" revision="jellybean-4.1.2"/>
-  <project path="hardware/libhardware_legacy" name="Evervolv/android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="Evervolv/android_hardware_msm7k" />
-  <project path="hardware/qcom/audio" name="Evervolv/android_hardware_qcom_audio" />
-  <project path="hardware/qcom/display" name="Evervolv/android_hardware_qcom_display" />
-  <project path="hardware/qcom/gps" name="Evervolv/android_hardware_qcom_gps" />
-  <project path="hardware/qcom/gps-legacy" name="Evervolv/android_hardware_qcom_gps-legacy" />
-  <project path="hardware/qcom/media" name="Evervolv/android_hardware_qcom_media" />
-  <project path="hardware/qcom/media-legacy" name="Evervolv/android_hardware_qcom_media-legacy" />
+  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
+  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
+  <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
+  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
+  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
+  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
@@ -326,7 +324,7 @@
   <project path="prebuilts/tools" name="CyanogenMod/android_prebuilts_tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="Evervolv/android_system_core" />
+  <project path="system/core" name="CyanogenMod/android_system_core" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
