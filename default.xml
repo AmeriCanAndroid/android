@@ -34,7 +34,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/htc/msm8660-common" name="Team-Hydra/android_device_htc_msm8660-common" />
+  <project path="device/htc/msm8660-common" name="AmeriCanAndroid/android_device_htc_msm8660-common" />
   <project path="kernel/htc/shooteru" name="americanandroid-evo3d-alphaseries-htc-3016" remote="codegoogle" revision="aosp" />
   <project path="device/htc/shooteru" name="AmeriCanAndroid/android_device_htc_shooteru" revision="cm10" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
